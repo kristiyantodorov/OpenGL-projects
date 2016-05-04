@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1462382206 source:d:\fmi\ocg\07\problem s07 e01\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1447403054 d:\fmi\ocg\07\problem s07 e01\okglib.h
+
+1447405633 source:d:\fmi\ocg\07\problem s07 e01\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+

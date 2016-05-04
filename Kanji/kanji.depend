@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447683029 source:d:\fmi\opengl\kanji\main.cpp
+	<cstdlib>
+	<iostream>
+	<GL/glfw.h>
+	<cmath>
+
+1443802405 d:\fmi\glfw-2.7.bin.win32\include\gl\glfw.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1455990175 source:d:\fmi\opengl\kanji\kanji.cpp
+	<cstdlib>
+	<iostream>
+	<GL/glfw.h>
+	<cmath>
+
